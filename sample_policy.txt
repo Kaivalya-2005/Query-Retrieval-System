@@ -1,0 +1,52 @@
+HEALTH INSURANCE POLICY DOCUMENT
+POLICY NUMBER: HLTH-2025-08-123456
+EFFECTIVE DATE: 2025-01-15
+
+SECTION 1: COVERAGE DETAILS
+
+1.1 General Coverage:
+This policy provides coverage for medical expenses incurred by the insured person(s) during the policy period, subject to terms, conditions, and exclusions herein.
+
+1.2 Waiting Periods:
+a) 30-day waiting period: Any medical expenses incurred within 30 days from the commencement of the policy are not covered, except for accidental injuries.
+b) 90-day waiting period: Any expenses related to specified surgeries and treatments including knee surgeries, hip replacements, and cardiac procedures are not covered during the first 90 days of the policy.
+c) 2-year waiting period: Pre-existing conditions are not covered during the first 24 months of continuous coverage.
+
+1.3 Surgical Procedures:
+a) All medically necessary surgical procedures are covered after applicable waiting periods.
+b) Knee surgeries are covered after 90 days of continuous policy coverage.
+c) Maximum coverage for knee surgeries is ₹25,000.
+d) Procedures must be performed in network hospitals for full coverage.
+
+SECTION 2: GEOGRAPHICAL COVERAGE
+
+2.1 Coverage Regions:
+a) All procedures performed in hospitals within the specified regions are eligible for coverage.
+b) Pune, Mumbai, Delhi, Bangalore, Chennai, and Kolkata are designated as Tier-1 cities with full coverage.
+c) Tier-2 cities have coverage up to 80% of the eligible amount.
+d) Tier-3 cities and rural areas have coverage up to 70% of the eligible amount.
+
+SECTION 3: AGE-SPECIFIC PROVISIONS
+
+3.1 Coverage by Age:
+a) Persons aged 18-45: 100% of eligible coverage amount.
+b) Persons aged 46-60: 90% of eligible coverage amount.
+c) Persons aged 61-70: 80% of eligible coverage amount.
+d) Persons above 70: 70% of eligible coverage amount.
+
+3.2 Additional Requirements:
+a) Insured persons aged 46 and above require mandatory pre-authorization for all surgical procedures.
+b) Insured persons aged 60 and above require a medical check-up before approval of surgical claims.
+
+SECTION 4: EXCLUSIONS
+
+4.1 General Exclusions:
+a) Cosmetic surgeries unless required due to an accident.
+b) Self-inflicted injuries or attempted suicide.
+c) Expenses arising from war, terrorism, or nuclear contamination.
+d) Experimental or unproven treatments.
+
+4.2 Procedure-Specific Exclusions:
+a) Bariatric surgeries within the first 2 years of policy.
+b) Fertility treatments and procedures.
+c) Dental procedures unless necessitated by an accident.
